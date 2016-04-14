@@ -3,3 +3,4 @@ add one line
 hello
 comflict
 no-fast forward
+hello
