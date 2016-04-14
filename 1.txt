@@ -1,3 +1,4 @@
 Branch is cool
 add one line
 hello
+comflict
